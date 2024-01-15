@@ -1,18 +1,31 @@
-FASE 1-
-1 - procurar o nick.
-2 - ter um middleware.
-    3 - com uma conta no (2) permitir ir pra 2 fase.
+<p align="center">
+    <h1 align="center"> Aviso para pretar atenção em detalhes.</h1>
+    <h3 align="center"> Um aviso sonoro para alertar <br> o jogador sobre visualizações de detalhes.</h2>
+</p>
 
----------
-FASE 2-
-0 - voltar para tela (limpar middleware)
+## 🛠 Techs
+  - [Typescript](https://www.typescriptlang.org/)
+  - [play-sound](https://www.npmjs.com/package/play-sound)
+  - [riot-api](https://developer.riotgames.com)
 
-1 - iniciar partida.
-    - procurar se o usuario está em partida.
-    - validar se o tempo e divisivel por 15: bater ping tab. [SAIR]
-    - validar se o tempo e divisivel por 5: bater ping mapa. [SAIR]
-        - contar quantas vezes cada ping foi utilizado. (contar no middleware).
-    - a cada 30 segundos, validar se a partida finalisou.
+<br>
 
-2 - finalizar partida.
-    - encerrar processos do codigo 1.
+## :bookmark: About
+
+<p align="center">
+Um projeto feito para ajudar jogadores de league of legends a alcançar o próximo nível,
+<br> lhe auxiliando a olhar o mini mapa e os detalhes dos demais jogadores para que o mesmo evite lutas em momentos inoportunos
+Esse é o do linkedin. <br>
+Juntei um pouco do útil ao agradável. Criei esse código para ajudar um amigo a ter um microgame diferenciado e melhorado já que o mesmo não tem o hábito de observar o mini mapa.
+</p>
+
+## :package: Installation
+
+### Rodando o chat  🚀
+
+#### Cloning
+
+```ps
+# Clone o repositório utilizando o git
+$ git clone https://github.com/BrenoVieira41/league-map.git
+```
