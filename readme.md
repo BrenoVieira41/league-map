@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center"> Aviso para pretar atenção em detalhes.</h1>
+    <h1 align="center"> Aviso para prestar atenção em detalhes.</h1>
     <h3 align="center"> Um aviso sonoro para alertar <br> o jogador sobre visualizações de detalhes.</h2>
 </p>
 
